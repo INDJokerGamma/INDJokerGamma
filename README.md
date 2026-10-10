@@ -13,8 +13,8 @@ I enjoy building reliable applications, designing REST APIs, working with databa
 - 👯 **I’m looking to collaborate on:** Full-stack applications, open-source projects, and meaningful software engineering projects.
 - 🤔 **I’m looking for help with:** Scalable backend architectures, system design, and writing more maintainable code.
 - 💬 **Ask me about:** Data structures and algorithms, C++, JavaScript, React, Node.js, REST APIs, and databases.
-- 📫 **How to reach me:** [Email](mailto:piyushdawkhare0000@gmail.com) · [LinkedIn](YOUR_LINKEDIN_URL)
-- ⚡ **Fun fact:** I've solved 500+ DSA problems and enjoy turning complex problems into practical solutions.
+- 📫 **How to reach me:** [Email](mailto:piyushdawkhare0000@gmail.com) · [LinkedIn](www.linkedin.com/in/piyush-dawkhare)
+- ⚡ **Achievements:**  ####1 I've solved 500+ DSA problems. Runner up a SGU Hackathon, .
 
 ---
 
@@ -67,7 +67,7 @@ A cloud-based file management platform with a responsive dashboard and a Node.js
 
 **Tech stack:** React.js · Node.js · Microsoft Azure · Firebase · Tailwind CSS
 
-[View repository](YOUR_MINIDRIVE_REPOSITORY_URL)
+[View repository](https://github.com/INDJokerGamma/mini-drive)
 
 ### 2. PACE Website — Event & Club Platform
 
@@ -91,7 +91,7 @@ A collaborative hackathon project focused on usability, onboarding, and user eng
 
 **Tech stack:** MERN · Gemini API · EmailJS · Google Analytics · GitHub Authentication
 
-[View repository](YOUR_OPENNEST_REPOSITORY_URL)
+[View repository](https://github.com/Kedar-1118/OpenNest)
 
 ---
 
