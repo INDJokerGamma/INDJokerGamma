@@ -14,7 +14,7 @@ I enjoy building reliable applications, designing REST APIs, working with databa
 - 🤔 **I’m looking for help with:** Scalable backend architectures, system design, and writing more maintainable code.
 - 💬 **Ask me about:** Data structures and algorithms, C++, JavaScript, React, Node.js, REST APIs, and databases.
 - 📫 **How to reach me:** [Email](mailto:piyushdawkhare0000@gmail.com) · [LinkedIn](www.linkedin.com/in/piyush-dawkhare)
-- ⚡ **Achievements:**  ####1 I've solved 500+ DSA problems. Runner up a SGU Hackathon, .
+- ⚡ **Achievements:** I've solved 500+ DSA problems. Runner up a SGU Hackathon, .
 
 ---
 
