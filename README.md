@@ -1,4 +1,4 @@
-![Building Ideas into Working Solutions](assets/github-banner.png)
+![Building Ideas into Working Solutions](piyush-banner.png)
 
 # Hi, I'm Piyush Dawkhare 👋
 
