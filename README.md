@@ -133,7 +133,7 @@ A collaborative hackathon project focused on usability, onboarding, and user eng
 ## 📈 GitHub Activity
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=INDJokerGamma&theme=github-compact&hide_border=true)](https://github.com/INDJokerGamma)
-
+ 
 ---
 
 ## 🤝 Let's Connect
