@@ -1,6 +1,6 @@
 ![Building Ideas into Working Solutions](piyush-banner.png)
 
-# Hi, I'm Piyush Dawkhare 👋
+# Hello, I'm Piyush Dawkhare 👋
 
 **Software Engineer | Full-Stack Development | Problem Solving**
 
